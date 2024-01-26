@@ -8,7 +8,7 @@
     <form id="calculatorForm">
       <label for="number1">Número 1:</label>
       <input type="number" id="number1" name="number1" required>
-  
+  <h1>Moroco racista hijo de la santisima trinidad<h1/>
       <label for="operation">Operación:</label>
       <select id="operation" name="operation" required>
         <option value="+">Suma</option>
